@@ -9,7 +9,7 @@ function Masukan() {
 
         <input placeholder='Search...'
           type="text"
-          className='text-xl font-light p-2 w-full shadow-xl focus:outline-none capitalize placeholder:lowercase'
+          className='text-xl font-light p-2 w-full shadow-xl focus:outline-none capitalize placeholder:lowercase rounded-tl-lg rounded-br-lg shadow-sky-800/50'
         />
 
         <UilSearch size={25}
